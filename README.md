@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jignesh Rathod @JigneshRathod31
 - 👀 I’m interested in Android development and Web development as well.
-- 🌱 I’m currently pursuing diploma in Information Technology.
+- 🌱 I’m currently pursuing BE in Information Technology.
 - 📫 How to reach me jigneshrathod154@gmail.com
 
 <!---
