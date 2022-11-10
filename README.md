@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jignesh Rathod @JigneshRathod31
-- 👀 I’m interested in Android development and Web development as well.
+- 👀 Interested in Android development, Web development, Problem Solving, Designing etc.
 - 🌱 I’m currently pursuing BE in Information Technology.
 - 📫 Connect with me on Linked In https://www.linkedin.com/in/jignesh-rathod-it/
 
